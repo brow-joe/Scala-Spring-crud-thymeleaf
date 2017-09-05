@@ -1,2 +1,3 @@
-# Scala-Spring-crud-thymeleaf
+# scala-crud-thymeleaf
 db embedded, derbyDB, thymeleaf
+crud - list products
