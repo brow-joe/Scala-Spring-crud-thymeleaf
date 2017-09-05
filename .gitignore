@@ -7,3 +7,5 @@
 .classpath
 .project
 .settings/
+data/
+derby.txt
